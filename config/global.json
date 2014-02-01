@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Who's Down": {
+            "applicationId": "P4uYl6z8MyjJzhHqNJ4uByVU0xKbq8kvR1qdqD8y", 
+            "masterKey": "vsBEIU4S1CqmzGAitY2eyOVEQ01zPbhJScmQhkuu"
+        }, 
+        "_default": {
+            "link": "Who's Down"
+        }
+    }
+}
